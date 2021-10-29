@@ -3,10 +3,13 @@
 ## Introduction
 it is a vim plugin.track string in search and highlight.   
 Description:   
-  Search and highlight current corsur word of interest in different colors  
+  Search and highlight current corsur word (or select string) of interest in different colors  
   And can switch to search the highlight history.  
   Now support 18 color  
   inspired by highlight and mark plugin  
+
+example:
+![image](https://github.com/recall-yoursmile/search_history_highlight/blob/main/example.png)
 
 ***
 ## Update Log
