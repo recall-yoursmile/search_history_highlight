@@ -1,4 +1,4 @@
-# Search\ History\ Highlight
+# Search History Highlight
 ***
 ## Introduction
 it is a vim plugin.track string in search and highlight.   
